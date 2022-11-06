@@ -1,0 +1,35 @@
+#music-container{
+  margin: 0 auto;
+  background-color:  rgba(255, 255, 255, 0.3);
+  border-radius: 30px;
+
+  box-sizing: border-box;
+  width: 95%;
+  height: 32.5%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  position: relative;
+}
+
+#music-photo{
+  
+  width: 100%;
+  height: 80%;
+  border-radius: 30px;
+  
+}
+
+#music-photo-opacity{
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+  position: absolute;
+  background-color:  rgba(237, 222, 222, 0.4);
+  
+}
+
+#audio1{
+  width: 100%;
+  height: 20%;
+}
